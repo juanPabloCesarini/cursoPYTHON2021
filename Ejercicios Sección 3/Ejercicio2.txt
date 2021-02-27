@@ -11,13 +11,13 @@ y determine los siguientes aspectos.
 
 2: Determina que el resultado tienen los siguientes ejemplos
 
-print(not True)
+print(not True) <-- False
 
-print(True and True)
+print(True and True) <-- True
 
-print(not False)
+print(not False) <-- True
 
-print(Falsa or True)
+print(Falsa or True) <-- True
 
 
 3: Con operadores logicos, determina si una cadena de texto ingresada por el usuario
