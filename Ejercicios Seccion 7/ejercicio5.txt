@@ -1,0 +1,10 @@
+Nota: Ejercicios para realizar al final de la seccion.
+
+
+(1) Escribir una función a la que se le pase una cadena <nombre> y muestre por pantalla el saludo ¡hola <nombre>!.
+
+(2) Solicitar al usuario que ingrese su dirección email. Imprimir un mensaje indicando si la dirección es válida o no, valiéndose de una función para decidirlo. Una dirección se considerará válida si contiene el símbolo "@".
+
+(3) Crea una funcion con argumentos interminables, luego itera con un bucle sobre los argumentos y agregale clave y valor
+	
+(4) Crea una funcion que nos devuelva numeros pares.
