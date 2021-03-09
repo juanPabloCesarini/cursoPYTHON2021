@@ -1,0 +1,8 @@
+setup.py
+Paquete_distribuible/__init__.py
+Paquete_distribuible.egg-info/PKG-INFO
+Paquete_distribuible.egg-info/SOURCES.txt
+Paquete_distribuible.egg-info/dependency_links.txt
+Paquete_distribuible.egg-info/top_level.txt
+Paquete_distribuible/operaciones1/resta.py
+Paquete_distribuible/operaciones1/suma.py
