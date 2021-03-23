@@ -17,7 +17,7 @@ def main():
     gel1.imprimir()
     gel2 = Gelatina("anana", "amarillo", "grande")
     lista_gelatina = [gel1,gel2]
-    fichero3 = open("Gelatina","wb")
+    fichero3 = open("Seccion 13/Gelatina","wb")
     pickle.dump(lista_gelatina, fichero3)
     fichero3.close()
     del(fichero3)
