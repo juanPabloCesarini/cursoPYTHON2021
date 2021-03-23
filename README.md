@@ -8,3 +8,7 @@ Desarrollar logica de programacion
 Manipular Ficheros
 Crear documentacion
 Distribuir tus programas
+
+# Links de interés
+https://docs.python.org/3/library/tkinter.html
+https://convertio.co/es/jpg-ico/
